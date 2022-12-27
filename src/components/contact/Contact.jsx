@@ -45,7 +45,7 @@ const Contact = () => {
           </article>
         </div>
         {/* <form ref={formRef} onSubmit={handleSubmit}> */}
-        <form ref={formRef} >
+        <form ref={formRef}  onSubmit={handleSubmit} >
           <input
             type="text"
             placeholder="Your Full Name"
