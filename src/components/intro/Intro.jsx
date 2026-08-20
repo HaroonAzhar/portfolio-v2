@@ -20,12 +20,12 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>5 years</small>
+              <small>4 years</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>10+ Professional Projects</small>
+              <small>Built 6+ professional web applications</small>
             </article>
           </div>
           <p><h3><strong>Hi! I am Haroon</strong></h3> An Experienced fullstack engineer with love for AI, Numbers, Gaming. A scientist at heart with an imaginative mind.I enjoy writing and traveling, to discover about myself and my wandering mind.</p>
