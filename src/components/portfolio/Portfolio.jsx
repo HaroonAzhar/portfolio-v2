@@ -24,7 +24,7 @@ const Portfolio = () => {
       description:
         'Multiple tools created for Skipify, a finacial payment AI comapny',
       technologies: 'React+Redux | Next.js | Node.js | Django | Graphql | AWS+GCP | Docker | Microservices|',
-      link: 'https://www.skipify.com/us',
+      link: 'https://www.skipify.com/checkout',
       github: 'https://github.com/HaroonAzhar',
     },
     {
